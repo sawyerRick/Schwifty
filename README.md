@@ -1,6 +1,6 @@
 # Schwifty
 
-![getSchwifty](/Users/sawyerrick/Desktop/repo/schwifty/getSchwifty.png)
+![getSchwifty](https://raw.githubusercontent.com/sawyerRick/Schwifty/master/IMG/getSchwifty.png)
 
 ## 简介
 
